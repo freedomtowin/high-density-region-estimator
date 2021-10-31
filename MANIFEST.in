@@ -1,0 +1,10 @@
+# Include the README
+include hdre/hdre_bycython/region_estimator.py
+include hdre/hdre_bycython/hdr_helpers_bycython/hdr_helpers.c
+include *.pyx
+include *.md
+
+
+# Include the license file
+include LICENSE.txt
+
